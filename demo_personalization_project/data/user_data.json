@@ -1,0 +1,293 @@
+{
+    "1": {
+        "name": "Nigar Aliyeva",
+        "email": "nigar.aliyeva@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-01T12:00:00Z"},
+            {"type": "click", "item_id": "Apple iPhone 12", "timestamp": "2024-06-01T12:05:00Z"},
+            {"type": "purchase", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-01T12:10:00Z"},
+            {"type": "view", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-02T10:00:00Z"},
+            {"type": "click", "item_id": "Bose QuietComfort 35 II", "timestamp": "2024-06-02T10:05:00Z"},
+            {"type": "purchase", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-02T10:10:00Z"}
+        ]
+    },
+    "2": {
+        "name": "Elvin Məmmədov",
+        "email": "elvin.mammadov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple MacBook Air", "timestamp": "2024-06-02T14:00:00Z"},
+            {"type": "click", "item_id": "Apple MacBook Pro", "timestamp": "2024-06-02T14:15:00Z"},
+            {"type": "purchase", "item_id": "Apple MacBook Air", "timestamp": "2024-06-02T14:30:00Z"},
+            {"type": "view", "item_id": "Apple iPhone 12", "timestamp": "2024-06-03T10:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-03T10:10:00Z"},
+            {"type": "purchase", "item_id": "Apple iPhone 12", "timestamp": "2024-06-03T10:20:00Z"}
+        ]
+    },
+    "3": {
+        "name": "Nərgiz Həsənova",
+        "email": "nergiz.hasanova@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-03T10:00:00Z"},
+            {"type": "click", "item_id": "Bose QuietComfort 35 II", "timestamp": "2024-06-03T10:10:00Z"},
+            {"type": "purchase", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-03T10:20:00Z"}
+        ]
+    },
+    "4": {
+        "name": "Emin Hüseynov",
+        "email": "emin.huseynov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple AirPods Pro", "timestamp": "2024-06-04T09:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Buds+", "timestamp": "2024-06-04T09:05:00Z"},
+            {"type": "purchase", "item_id": "Apple AirPods Pro", "timestamp": "2024-06-04T09:15:00Z"},
+            {"type": "view", "item_id": "Dell XPS 13", "timestamp": "2024-06-05T11:00:00Z"},
+            {"type": "click", "item_id": "MacBook Pro 13", "timestamp": "2024-06-05T11:10:00Z"},
+            {"type": "purchase", "item_id": "Dell XPS 13", "timestamp": "2024-06-05T11:20:00Z"}
+        ]
+    },
+    "5": {
+        "name": "Aysel Quliyeva",
+        "email": "aysel.quliyeva@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Dell XPS 13", "timestamp": "2024-06-05T11:00:00Z"},
+            {"type": "click", "item_id": "Apple MacBook Pro", "timestamp": "2024-06-05T11:05:00Z"},
+            {"type": "purchase", "item_id": "Dell XPS 13", "timestamp": "2024-06-05T11:10:00Z"}
+        ]
+    },
+    "6": {
+        "name": "Farid Qasımov",
+        "email": "farid.qasimov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Sony PlayStation 5", "timestamp": "2024-06-06T10:00:00Z"},
+            {"type": "click", "item_id": "Xbox Series X", "timestamp": "2024-06-06T10:05:00Z"},
+            {"type": "purchase", "item_id": "Sony PlayStation 5", "timestamp": "2024-06-06T10:10:00Z"},
+            {"type": "view", "item_id": "Nintendo Switch", "timestamp": "2024-06-07T09:00:00Z"},
+            {"type": "click", "item_id": "Sony PlayStation 5", "timestamp": "2024-06-07T09:10:00Z"},
+            {"type": "purchase", "item_id": "Nintendo Switch", "timestamp": "2024-06-07T09:20:00Z"}
+        ]
+    },
+    "7": {
+        "name": "Günay Həsənli",
+        "email": "gunay.hasanli@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "iPad Pro", "timestamp": "2024-06-07T12:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Tab S7", "timestamp": "2024-06-07T12:05:00Z"},
+            {"type": "purchase", "item_id": "iPad Pro", "timestamp": "2024-06-07T12:10:00Z"}
+        ]
+    },
+    "8": {
+        "name": "Murad Əliyev",
+        "email": "murad.aliyev@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Google Pixel 5", "timestamp": "2024-06-08T08:00:00Z"},
+            {"type": "click", "item_id": "OnePlus 9", "timestamp": "2024-06-08T08:10:00Z"},
+            {"type": "purchase", "item_id": "Google Pixel 5", "timestamp": "2024-06-08T08:20:00Z"},
+            {"type": "view", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-09T10:00:00Z"},
+            {"type": "click", "item_id": "Apple iPhone 12", "timestamp": "2024-06-09T10:05:00Z"},
+            {"type": "purchase", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-09T10:10:00Z"}
+        ]
+    },
+    "9": {
+        "name": "Zeynəb Nəsirova",
+        "email": "zeyneb.nasirova@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Microsoft Surface Pro", "timestamp": "2024-06-10T11:00:00Z"},
+            {"type": "click", "item_id": "iPad Pro", "timestamp": "2024-06-10T11:05:00Z"},
+            {"type": "purchase", "item_id": "Microsoft Surface Pro", "timestamp": "2024-06-10T11:10:00Z"}
+        ]
+    },
+    "10": {
+        "name": "Rəşad İbrahimov",
+        "email": "reshad.ibrahimov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Amazon Echo", "timestamp": "2024-06-11T09:00:00Z"},
+            {"type": "click", "item_id": "Google Nest Hub", "timestamp": "2024-06-11T09:05:00Z"},
+            {"type": "purchase", "item_id": "Amazon Echo", "timestamp": "2024-06-11T09:10:00Z"},
+            {"type": "view", "item_id": "Apple HomePod", "timestamp": "2024-06-12T08:00:00Z"},
+            {"type": "click", "item_id": "Google Nest Mini", "timestamp": "2024-06-12T08:10:00Z"},
+            {"type": "purchase", "item_id": "Apple HomePod", "timestamp": "2024-06-12T08:20:00Z"}
+        ]
+    },
+    "11": {
+        "name": "Aysel Hacıyeva",
+        "email": "aysel.hajiyeva@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Samsung Galaxy Buds+", "timestamp": "2024-06-13T07:00:00Z"},
+            {"type": "click", "item_id": "Apple AirPods Pro", "timestamp": "2024-06-13T07:05:00Z"},
+            {"type": "purchase", "item_id": "Samsung Galaxy Buds+", "timestamp": "2024-06-13T07:10:00Z"}
+        ]
+    },
+    "12": {
+        "name": "Rövşən Məmmədov",
+        "email": "rovsan.mammadov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "HP Spectre x360", "timestamp": "2024-06-14T12:00:00Z"},
+            {"type": "click", "item_id": "Dell XPS 13", "timestamp": "2024-06-14T12:05:00Z"},
+            {"type": "purchase", "item_id": "HP Spectre x360", "timestamp": "2024-06-14T12:10:00Z"}
+        ]
+    },
+    "13": {
+        "name": "Kamran Əliyev",
+        "email": "kamran.aliyev@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple iPad Air", "timestamp": "2024-06-15T10:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Tab S7", "timestamp": "2024-06-15T10:05:00Z"},
+            {"type": "purchase", "item_id": "Apple iPad Air", "timestamp": "2024-06-15T10:10:00Z"},
+            {"type": "view", "item_id": "Microsoft Surface Go 2", "timestamp": "2024-06-16T09:00:00Z"},
+            {"type": "click", "item_id": "Apple iPad Pro", "timestamp": "2024-06-16T09:10:00Z"},
+            {"type": "purchase", "item_id": "Microsoft Surface Go 2", "timestamp": "2024-06-16T09:20:00Z"}
+        ]
+    },
+    "14": {
+        "name": "Gülşən Həsənova",
+        "email": "gulsan.hasanova@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple Watch Series 6", "timestamp": "2024-06-17T11:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Watch 3", "timestamp": "2024-06-17T11:05:00Z"},
+            {"type": "purchase", "item_id": "Apple Watch Series 6", "timestamp": "2024-06-17T11:10:00Z"}
+        ]
+    },
+    "15": {
+        "name": "Namiq Həsənov",
+        "email": "namiq.hasanov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Sony Bravia X900H", "timestamp": "2024-06-18T12:00:00Z"},
+            {"type": "click", "item_id": "Samsung QLED Q80T", "timestamp": "2024-06-18T12:05:00Z"},
+            {"type": "purchase", "item_id": "Sony Bravia X900H", "timestamp": "2024-06-18T12:10:00Z"}
+        ]
+    },
+    "16": {
+        "name": "Zeynəb Quliyeva",
+        "email": "zeyneb.quliyeva@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple MacBook Air", "timestamp": "2024-06-19T10:00:00Z"},
+            {"type": "click", "item_id": "Dell XPS 13", "timestamp": "2024-06-19T10:05:00Z"},
+            {"type": "purchase", "item_id": "Apple MacBook Air", "timestamp": "2024-06-19T10:10:00Z"}
+        ]
+    },
+    "17": {
+        "name": "Murad İsmayılov",
+        "email": "murad.ismayilov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-20T11:00:00Z"},
+            {"type": "click", "item_id": "Apple iPhone 12", "timestamp": "2024-06-20T11:05:00Z"},
+            {"type": "purchase", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-20T11:10:00Z"}
+        ]
+    },
+    "18": {
+        "name": "Aytən Quliyeva",
+        "email": "ayten.quliyeva@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple Watch SE", "timestamp": "2024-06-21T10:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Watch Active 2", "timestamp": "2024-06-21T10:05:00Z"},
+            {"type": "purchase", "item_id": "Apple Watch SE", "timestamp": "2024-06-21T10:10:00Z"}
+        ]
+    },
+    "19": {
+        "name": "Nadir Məmmədov",
+        "email": "nadir.mammadov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-22T11:00:00Z"},
+            {"type": "click", "item_id": "Bose QuietComfort 35 II", "timestamp": "2024-06-22T11:05:00Z"},
+            {"type": "purchase", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-22T11:10:00Z"}
+        ]
+    },
+    "20": {
+        "name": "Rüfət Əliyev",
+        "email": "rufat.aliyev@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple MacBook Pro", "timestamp": "2024-06-23T10:00:00Z"},
+            {"type": "click", "item_id": "Dell XPS 13", "timestamp": "2024-06-23T10:05:00Z"},
+            {"type": "purchase", "item_id": "Apple MacBook Pro", "timestamp": "2024-06-23T10:10:00Z"}
+        ]
+    },
+    "21": {
+        "name": "Taleh Qasımov",
+        "email": "taleh.qasimov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Google Pixel 5", "timestamp": "2024-06-24T12:00:00Z"},
+            {"type": "click", "item_id": "OnePlus 9", "timestamp": "2024-06-24T12:05:00Z"},
+            {"type": "purchase", "item_id": "Google Pixel 5", "timestamp": "2024-06-24T12:10:00Z"}
+        ]
+    },
+    "22": {
+        "name": "Günel Həsənova",
+        "email": "gunel.hasanova@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Sony PlayStation 5", "timestamp": "2024-06-25T10:00:00Z"},
+            {"type": "click", "item_id": "Xbox Series X", "timestamp": "2024-06-25T10:05:00Z"},
+            {"type": "purchase", "item_id": "Sony PlayStation 5", "timestamp": "2024-06-25T10:10:00Z"}
+        ]
+    },
+    "23": {
+        "name": "Vüqar Nəsirov",
+        "email": "vuqar.nasirov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Samsung Galaxy Tab S7", "timestamp": "2024-06-26T12:00:00Z"},
+            {"type": "click", "item_id": "iPad Pro", "timestamp": "2024-06-26T12:05:00Z"},
+            {"type": "purchase", "item_id": "Samsung Galaxy Tab S7", "timestamp": "2024-06-26T12:10:00Z"}
+        ]
+    },
+    "24": {
+        "name": "Sevinc Məmmədova",
+        "email": "sevinc.mammadova@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple Watch Series 6", "timestamp": "2024-06-27T10:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Watch 3", "timestamp": "2024-06-27T10:05:00Z"},
+            {"type": "purchase", "item_id": "Apple Watch Series 6", "timestamp": "2024-06-27T10:10:00Z"}
+        ]
+    },
+    "25": {
+        "name": "Kamran Əliyev",
+        "email": "kamran.aliyev@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple MacBook Air", "timestamp": "2024-06-28T10:00:00Z"},
+            {"type": "click", "item_id": "Dell XPS 13", "timestamp": "2024-06-28T10:05:00Z"},
+            {"type": "purchase", "item_id": "Apple MacBook Air", "timestamp": "2024-06-28T10:10:00Z"}
+        ]
+    },
+    "26": {
+        "name": "Aytən Məmmədova",
+        "email": "ayten.mammadova@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple iPhone 12", "timestamp": "2024-06-29T12:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy S21", "timestamp": "2024-06-29T12:05:00Z"},
+            {"type": "purchase", "item_id": "Apple iPhone 12", "timestamp": "2024-06-29T12:10:00Z"}
+        ]
+    },
+    "27": {
+        "name": "Murad Həsənov",
+        "email": "murad.hasanov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-30T10:00:00Z"},
+            {"type": "click", "item_id": "Bose QuietComfort 35 II", "timestamp": "2024-06-30T10:05:00Z"},
+            {"type": "purchase", "item_id": "Sony WH-1000XM4", "timestamp": "2024-06-30T10:10:00Z"}
+        ]
+    },
+    "28": {
+        "name": "Aysel Quliyeva",
+        "email": "aysel.quliyeva@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple Watch SE", "timestamp": "2024-07-01T12:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Watch Active 2", "timestamp": "2024-07-01T12:05:00Z"},
+            {"type": "purchase", "item_id": "Apple Watch SE", "timestamp": "2024-07-01T12:10:00Z"}
+        ]
+    },
+    "29": {
+        "name": "Elvin Mammadov",
+        "email": "elvin.mammadov@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Google Pixel 5", "timestamp": "2024-07-02T10:00:00Z"},
+            {"type": "click", "item_id": "OnePlus 9", "timestamp": "2024-07-02T10:05:00Z"},
+            {"type": "purchase", "item_id": "Google Pixel 5", "timestamp": "2024-07-02T10:10:00Z"}
+        ]
+    },
+    "30": {
+        "name": "Leyla Əliyeva",
+        "email": "leyla.aliyeva@gmail.com",
+        "interactions": [
+            {"type": "view", "item_id": "Apple Watch Series 6", "timestamp": "2024-07-03T11:00:00Z"},
+            {"type": "click", "item_id": "Samsung Galaxy Watch 3", "timestamp": "2024-07-03T11:05:00Z"},
+            {"type": "purchase", "item_id": "Apple Watch Series 6", "timestamp": "2024-07-03T11:10:00Z"}
+        ]
+    }
+}
